@@ -1,9 +1,9 @@
 # Site settings
-author: Jason Rete
+author: JaSON Rete
 title: Code Kitch
 header-img: img/home-bg.png
 email: misterjcr@aol.com
-copyright_name: Jason Rete
+copyright_name: JaSON Rete
 description: > # this means to ignore newlines until "baseurl:"
   Once upon a line of code...
 baseurl: "" # the subpath of your site, e.g. /blog
